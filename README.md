@@ -3,7 +3,7 @@
 A simple weather application that fetches and displays the current weather information for any city using the WeatherAPI. The app allows users to input a city name and view its corresponding weather details, including the city name, local time, and temperature.
 
 ## Preview
-![ClimateCheck App Preview](climateCheck.png)
+![ClimateCheck App Preview](ClimateCheck.png)
 
 ## Table of Contents
 - [Features](#features)
