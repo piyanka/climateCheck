@@ -1,13 +1,15 @@
-# Weather App
+# ClimateCheck 
 
 A simple weather application that fetches and displays the current weather information for any city using the WeatherAPI. The app allows users to input a city name and view its corresponding weather details, including the city name, local time, and temperature.
+
+## Preview
+![ClimateCheck App Preview](climateCheck.png)
 
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
-- [File Structure](#file-structure)
 - [License](#license)
 
 ## Features
@@ -32,3 +34,25 @@ A simple weather application that fetches and displays the current weather infor
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/weather-app.git
+   ```
+   Or download the ZIP file and extract it.
+
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd weather-app
+   ```
+
+3. **Open `index.html` in your Browser**:
+   You can directly open the `index.html` file in any web browser to use the app.
+
+## Usage
+1. **Enter a City Name**: Type the name of any city in the input box.
+2. **Click 'Search'**: Hit the "Search" button to fetch and display the weather details.
+3. **View the Results**: The app will display the city's name, local time, and current temperature.
+
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+```
+
+   
