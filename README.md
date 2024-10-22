@@ -50,9 +50,6 @@ A simple weather application that fetches and displays the current weather infor
 2. **Click 'Search'**: Hit the "Search" button to fetch and display the weather details.
 3. **View the Results**: The app will display the city's name, local time, and current temperature.
 
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
 
    
